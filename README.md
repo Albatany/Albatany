@@ -50,10 +50,4 @@ Languages, frameworks, databases, and tools I use to build software.
 <a href="https://www.last.fm/user/AceBreaker420"><img src="https://lastly.nisarga.me/api/overall?username=AceBreaker420&period=overall" alt="Last.fm overall stats"></a>
 <a href="https://www.last.fm/user/AceBreaker420"><img src="https://lastfm-recently-played.vercel.app/api?user=AceBreaker420&count=1&image_size=8" alt="Last.fm recently played"></a>
 
-### Contact
-
-<a href="https://instagram.com/azizblvd/"><img src="https://img.shields.io/badge/Instagram-azizblvd-1f2933?style=flat-square&logo=instagram&logoColor=FF2E88" alt="Instagram"></a>
-<a href="https://open.spotify.com/user/31acau4fmp7lixasqx5w4fgnz5zi"><img src="https://img.shields.io/badge/Spotify-profile-1f2933?style=flat-square&logo=spotify&logoColor=1ed760" alt="Spotify"></a>
-<img src="https://img.shields.io/badge/Discord-acebreaker69-1f2933?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord">
-
 </details>
