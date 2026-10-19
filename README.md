@@ -2,7 +2,8 @@
 
 # welcome to albatany center, feel free to look around 👋
 
-<a href="https://wakatime.com/@b71db2da-33e1-4886-96e9-dc295e08a06f"><img src="https://wakatime.com/badge/user/b71db2da-33e1-4886-96e9-dc295e08a06f.svg" alt="Total time coded on WakaTime"></a>
+<a href="https://wakatime.com/@b71db2da-33e1-4886-96e9-dc295e08a06f"><img src="https://wakatime.com/badge/user/b71db2da-33e1-4886-96e9-dc295e08a06f.svg?color=8957e5" alt="Total time coded on WakaTime"></a>
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=f59e0b&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37442)](https://codetime.dev)
 
 <div align="center">
 <a href="@acebreaker69"><img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865f2"/></a>
