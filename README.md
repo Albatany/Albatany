@@ -34,21 +34,13 @@ Languages, frameworks, databases, and tools I use to build software.
 | **Tools and systems** | <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,eclipse,notion,replit,discord,linux,windows&theme=dark" alt="Tools and systems"> |
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Albatany&show_icons=true&theme=transparent&title_color=8DA9C4&icon_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Albatany&show_icons=true&theme=transparent&title_color=3B5B7A&icon_color=3B5B7A&text_color=2F3B45&border_color=D0D7DE&hide_border=false">
-    <img alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=Albatany&show_icons=true&theme=transparent&title_color=8DA9C4&icon_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Albatany&layout=compact&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Albatany&layout=compact&theme=transparent&title_color=3B5B7A&text_color=2F3B45&border_color=D0D7DE&hide_border=false">
-    <img alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Albatany&layout=compact&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false">
-  </picture>
-</p>
 
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Albatany&rank_icon=github&custom_title=what%20am%20i%20doing%20in%20my%20life%3F&theme=dark)](https://github-stats-extended.vercel.app/api?username=Albatany&rank_icon=github&custom_title=what%20am%20i%20doing%20in%20my%20life%3F&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Albatany&layout=compact&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Albatany&layout=compact&langs_count=10&theme=dark)
+  
 ### Listening
 
-<a href="https://www.last.fm/user/AceBreaker420"><img src="https://lastly.nisarga.me/api/overall?username=AceBreaker420&period=overall" alt="Last.fm overall stats"></a>
 <a href="https://www.last.fm/user/AceBreaker420"><img src="https://lastfm-recently-played.vercel.app/api?user=AceBreaker420&count=1&image_size=8" alt="Last.fm recently played"></a>
+<a href="https://www.last.fm/user/AceBreaker420"><img src="https://lastly.nisarga.me/api/overall?username=AceBreaker420&period=overall" alt="Last.fm overall stats"></a>
 
 </details>
