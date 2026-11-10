@@ -35,8 +35,8 @@ Languages, frameworks, databases, and tools I use to build software.
 
 <p>
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Albatany&rank_icon=github&custom_title=what%20am%20i%20doing%20in%20my%20life%3F&theme=dark)](https://github-stats-extended.vercel.app/api?username=Albatany&rank_icon=github&custom_title=what%20am%20i%20doing%20in%20my%20life%3F&theme=dark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Albatany&layout=compact&langs_count=10&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Albatany&layout=compact&langs_count=10&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Albatany&rank_icon=github&custom_title=what%20am%20i%20doing%20in%20my%20life%3F&show_icons=true&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=Albatany&rank_icon=github&custom_title=what%20am%20i%20doing%20in%20my%20life%3F&show_icons=true&include_all_commits=true&theme=onedark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Albatany&layout=compact&langs_count=10&theme=onedark)](https://github-stats-extended.vercel.app/api/top-langs?username=Albatany&layout=compact&langs_count=10&theme=onedark)
   
 ### Listening
 
