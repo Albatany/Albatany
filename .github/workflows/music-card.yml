@@ -1,0 +1,43 @@
+# Draws the macOS-style "Music" card from Last.fm (user AceBreaker420)
+# and publishes it to the music-card branch, which the README reads from.
+# Needs the repository secret LASTFM_API_KEY.
+
+name: music card
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: music-card
+  cancel-in-progress: true
+
+jobs:
+  render:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: test the renderer
+        run: python3 -m unittest discover -s scripts
+
+      - name: render music.svg
+        run: python3 scripts/music_card.py dist/music.svg
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+
+      - name: push music.svg to the music-card branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: music-card
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
